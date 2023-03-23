@@ -1,1 +1,1 @@
-# hHackerrank-sql-certification-2023
+# Hackerrank-sql-certification-2023
